@@ -1,21 +1,94 @@
-# My-Personal-repository
 
-About my profile and project references.
+<h1 align="center">Hi 👋, I'm Anshuman Panigrahy</h1>
+<h3 align="center">Java Backend Developer | AI/ML Enthusiast</h3>
 
-## GitHub Profile
+<p align="center">
+  Building practical applications with Java, Spring Boot,
+  React, PostgreSQL, and AI.
+</p>
 
-- Profile: [@AnshumanPanigrahy](https://github.com/AnshumanPanigrahy)
-- All repositories: [github.com/AnshumanPanigrahy?tab=repositories](https://github.com/AnshumanPanigrahy?tab=repositories)
+<p align="center">
+  <a href="https://github.com/AnshumanPanigrahy">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
-## Project Reference
+---
 
-Based on your public repositories, your projects cover web development, Java backend learning, AI/ML, and deployment practice.
+## 👨‍💻 About Me
 
-### Highlighted projects
+- 🎓 B.Tech student at GIET University, Gunupur
+- 💻 Interested in backend development and AI-powered applications
+- 🌱 Currently working with Spring Boot, React, and PostgreSQL
+- 🔎 Exploring Retrieval-Augmented Generation (RAG) and vector databases
+- 🎯 Focused on building useful, scalable software projects
 
-- [DacuAi](https://github.com/AnshumanPanigrahy/DacuAi) — Semantic search with VectorDB.
-- [E-commerce](https://github.com/AnshumanPanigrahy/E-commerce) — React full-stack class project.
-- [Node.js-Learn](https://github.com/AnshumanPanigrahy/Node.js-Learn) — Node.js/Express learning including authentication and testing.
-- [ML_Practice](https://github.com/AnshumanPanigrahy/ML_Practice) — Machine learning practice notebooks.
-- [NLP-Project-Sentiment-Analysis-AI-Text-Processing-](https://github.com/AnshumanPanigrahy/NLP-Project-Sentiment-Analysis-AI-Text-Processing-) — Sentiment analysis internship project.
-- [Deployment-ec2-nodejs-CICD](https://github.com/AnshumanPanigrahy/Deployment-ec2-nodejs-CICD) — Deployment learning on AWS EC2 with CI/CD.
+## 🛠️ Tech Stack
+
+**Languages**
+
+Java · JavaScript · TypeScript · Python · SQL
+
+**Frontend**
+
+React · HTML · CSS
+
+**Backend**
+
+Spring Boot · REST APIs · FastAPI
+
+**Databases & Tools**
+
+PostgreSQL · pgvector · MySQL · Git · GitHub · Docker
+
+## 🚀 Featured Projects
+
+### 📚 DocuMindAI
+An AI-powered document search and PDF question-answering
+application using semantic search and vector databases.
+
+- Frontend: React
+- Backend: Spring Boot
+- Database: PostgreSQL + pgvector
+
+[View Repository](https://github.com/AnshumanPanigrahy)
+
+### 🌋 PRAHARI
+A sensor-based hazard monitoring and early-warning project
+focused on real-time risk visualization and predictions.
+
+[View Repository](https://github.com/AnshumanPanigrahy)
+
+### 📋 Task View
+A task-management application for organizing tasks and
+improving productivity.
+
+[View Repository](https://github.com/AnshumanPanigrahy)
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AnshumanPanigrahy&show_icons=true&hide_border=true"
+    alt="GitHub statistics"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AnshumanPanigrahy&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/AnshumanPanigrahy
+- LinkedIn: Add your LinkedIn profile URL
+- Email: anshumanpanigrahy000@gmail.com
+
+---
+
+<p align="center">
+  <i>Learn continuously. Build consistently. Improve every day.</i>
+</p>
