@@ -146,35 +146,6 @@ A project focused on extracting document text, organizing chunks, storing embedd
 
 </div>
 
----
-
-<div align="center">
-
-### 🌋 PRAHARI
-
-**Sensor-Based Hazard Monitoring & Prediction**
-
-A project focused on visualizing sensor readings, monitoring hazard conditions, and developing predictive models for early-warning workflows.
-
-</div>
-
-**Areas of development**
-
-- 🌡️ Sensor data processing and visualization
-- 📊 Dashboard integration for hazard monitoring
-- 🤖 Python-based predictive-model development
-- ⚠️ Risk assessment from sensor-derived features
-- 🔄 Integration of sensor readings and AI predictions
-
-<div align="center">
-
-<a href="https://github.com/AnshumanPanigrahy?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PRAHARI_PROJECT-16A34A?style=for-the-badge&logo=github" alt="Explore PRAHARI project"/>
-</a>
-
-</div>
-
----
 
 <div align="center">
 
